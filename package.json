@@ -8,7 +8,7 @@
     "dist",
     "src"
   ],
-  "repository": "jchiatt/nextjs-basic-auth",
+  "repository": "krylevsky/nextjs-basic-auth",
   "homepage": "https://github.com/jchiatt/nextjs-basic-auth",
   "bugs": "https://github.com/jchiatt/nextjs-basic-auth/issues",
   "keywords": [
